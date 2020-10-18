@@ -1,0 +1,2 @@
+# Newstigator
+Fake News Detection
