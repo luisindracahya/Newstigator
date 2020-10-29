@@ -1,13 +1,6 @@
 ## Newstigator
 #### Machine learning model for fake News Detection. 
 
-### Project team consists of:
-#### - Christian Soetanto
-#### - Leo Christopher Coo
-#### - Luis Indracahya
-#### - Naomi Belinda May Arbai
-#### - Stephen Leonardo
-
 ### Dataset:
 #### https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
 
